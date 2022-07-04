@@ -2,4 +2,6 @@
 
 ### `npm start`
 
-simulation : On Progress
+simulation : https://front-end-test-six.vercel.app/
+
+tested on Iphone 12
